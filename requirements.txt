@@ -1,6 +1,5 @@
 telebot
-calendar
+
 emoji
 requests
 
-time
