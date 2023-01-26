@@ -1,0 +1,6 @@
+telebot
+calendar
+time
+emoji
+requests
+logging
